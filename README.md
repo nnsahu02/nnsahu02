@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a softwear developer woking on js, nodejs, react
+I'm a softwear developer woking on Js, NodeJs and React.
 
 
 ## 🌐 Socials:
